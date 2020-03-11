@@ -1,0 +1,81 @@
+ -----------------------------------------------------------------------
+Test number 30: 
+Bitdepth: 8, Chunk Size: 2048, Range with: 55, Num in range: 4, mm percentage: 0.8999999999999999
+
+	Wave of Babies.mp3  : wave_120.mp3         with   22 hits at 0.59
+ 	Paper Doll.mp3      : paper_10.mp3         with   35 hits at 0.43
+ 	Backwoods Gold.mp3  : liszt_1.mp3          with   10 hits at 0.90
+ 	Hello.mp3           : hello_60.mp3         with   42 hits at 0.93
+ 	Unstoppable.mp3     : unstoppable_10.mp3   with   42 hits at 0.24
+ 	I Took A Pill       : ibiza_30.mp3         with   50 hits at 0.74
+ 	Ink.mp3             : ink_162.mp3          with   35 hits at 0.40
+ 	Lisztomania.mp3     : liszt_1.mp3          with   70 hits at 0.19
+ 	Blood.mp3           : blood_180.mp3        with   23 hits at 0.57
+ 	Migraine.mp3        : liszt_1.mp3          with   20 hits at 0.50
+ 	Hymn For The Weekend: hymn_33.mp3          with   55 hits at 0.33
+ 	La Dalle.mp3        : french_120.mp3       with   21 hits at 0.67
+ -----------------------------------------------------------------------
+Test number 180: 
+Bitdepth: 8, Chunk Size: 4096, Range with: 107, Num in range: 3, mm percentage: 0.8999999999999999
+
+	Wave of Babies.mp3  : wave_120.mp3         with   10 hits at 0.70
+ 	Paper Doll.mp3      : paper_10.mp3         with   27 hits at 0.33
+ 	Backwoods Gold.mp3  : ink_162.mp3          with    6 hits at 0.83
+ 	Hello.mp3           : hello_5.mp3          with   41 hits at 0.76
+ 	Unstoppable.mp3     : unstoppable_10.mp3   with   35 hits at 0.20
+ 	I Took A Pill       : ibiza_87.mp3         with   22 hits at 0.86
+ 	Ink.mp3             : ink_162.mp3          with   16 hits at 0.50
+ 	Lisztomania.mp3     : liszt_1.mp3          with   29 hits at 0.31
+ 	Blood.mp3           : blood_180.mp3        with   40 hits at 0.23
+ 	Migraine.mp3        : liszt_1.mp3          with    9 hits at 0.78
+ 	Hymn For The Weekend: hymn_33.mp3          with   53 hits at 0.23
+ 	La Dalle.mp3        : french_120.mp3       with   24 hits at 0.25
+ -----------------------------------------------------------------------
+Test number 390: 
+Bitdepth: 16, Chunk Size: 2048, Range with: 55, Num in range: 4, mm percentage: 0.8999999999999999
+
+	Wave of Babies.mp3  : wave_120.mp3         with   23 hits at 0.57
+ 	Paper Doll.mp3      : paper_10.mp3         with   36 hits at 0.42
+ 	Backwoods Gold.mp3  : hello_60.mp3         with   10 hits at 0.90
+ 	Hello.mp3           : hello_60.mp3         with   42 hits at 0.76
+ 	Unstoppable.mp3     : unstoppable_10.mp3   with   43 hits at 0.23
+ 	I Took A Pill       : ibiza_30.mp3         with   48 hits at 0.77
+ 	Ink.mp3             : ink_162.mp3          with   35 hits at 0.40
+ 	Lisztomania.mp3     : liszt_1.mp3          with   60 hits at 0.22
+ 	Blood.mp3           : blood_180.mp3        with   23 hits at 0.57
+ 	Migraine.mp3        : liszt_1.mp3          with   11 hits at 0.91
+ 	Hymn For The Weekend: hymn_33.mp3          with   58 hits at 0.45
+ 	La Dalle.mp3        : french_120.mp3       with   24 hits at 0.58
+ -----------------------------------------------------------------------
+Test number 430: 
+Bitdepth: 16, Chunk Size: 2048, Range with: 107, Num in range: 4, mm percentage: 0.8999999999999999
+
+	Wave of Babies.mp3  : wave_120.mp3         with   20 hits at 0.50
+ 	Paper Doll.mp3      : paper_10.mp3         with   38 hits at 0.26
+ 	Backwoods Gold.mp3  : wave_120.mp3         with    5 hits at 0.80
+ 	Hello.mp3           : hello_5.mp3          with   37 hits at 0.97
+ 	Unstoppable.mp3     : unstoppable_10.mp3   with   37 hits at 0.27
+ 	I Took A Pill       : ibiza_30.mp3         with   38 hits at 0.58
+ 	Ink.mp3             : ink_162.mp3          with   21 hits at 0.48
+ 	Lisztomania.mp3     : liszt_1.mp3          with   52 hits at 0.12
+ 	Blood.mp3           : blood_180.mp3        with   17 hits at 0.59
+ 	Migraine.mp3        : liszt_1.mp3          with    8 hits at 0.63
+ 	Hymn For The Weekend: hymn_33.mp3          with   39 hits at 0.28
+ 	La Dalle.mp3        : french_120.mp3       with   19 hits at 0.53
+ -----------------------------------------------------------------------
+Test number 540: 
+Bitdepth: 16, Chunk Size: 4096, Range with: 107, Num in range: 3, mm percentage: 0.8999999999999999
+
+	Wave of Babies.mp3  : wave_120.mp3         with   10 hits at 0.70
+ 	Paper Doll.mp3      : paper_10.mp3         with   27 hits at 0.30
+ 	Backwoods Gold.mp3  : ink_162.mp3          with    6 hits at 0.83
+ 	Hello.mp3           : hello_5.mp3          with   41 hits at 0.73
+ 	Unstoppable.mp3     : unstoppable_10.mp3   with   36 hits at 0.19
+ 	I Took A Pill       : ibiza_87.mp3         with   22 hits at 0.86
+ 	Ink.mp3             : ink_162.mp3          with   16 hits at 0.50
+ 	Lisztomania.mp3     : liszt_1.mp3          with   25 hits at 0.36
+ 	Blood.mp3           : blood_180.mp3        with   40 hits at 0.20
+ 	Migraine.mp3        : liszt_1.mp3          with    9 hits at 0.67
+ 	Hymn For The Weekend: hymn_33.mp3          with   51 hits at 0.25
+ 	La Dalle.mp3        : french_120.mp3       with   23 hits at 0.30
+ -----------------------------------------------------------------------
